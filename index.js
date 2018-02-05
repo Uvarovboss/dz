@@ -7,3 +7,9 @@ while(a < 100){
 }
 console.log(sum);
 
+for(var a = 1; a < 100; a ++){
+	if (a % 3 == 0){
+		document.write(a)
+	}
+}
+
