@@ -5,5 +5,5 @@ while(a < 100){
 	sum += a;
 	a++;     
 }
-document write(sum);
+console.log(sum);
 
